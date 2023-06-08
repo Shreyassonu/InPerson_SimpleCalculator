@@ -7,10 +7,21 @@
     left: 0;
     padding: 1rem;
     text-align: center;
-  }
-  .footer-img {
+}
+
+.footer-img {
     height: 24px;
     width: auto;
     margin-bottom: 16px;
     margin-right: 8px;
-  }
+}
+
+.btn-primary {
+    background-color: #214e8f;
+    color: white;
+}
+
+.calculator-btn {
+    max-width: 300px;
+    align-content: center;
+}
